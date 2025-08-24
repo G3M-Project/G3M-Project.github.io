@@ -39,7 +39,7 @@ body {
 
 .card2 {
     width: 100%;
-    background-color: lightgray;
+    background-color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
